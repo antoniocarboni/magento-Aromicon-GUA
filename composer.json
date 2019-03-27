@@ -1,6 +1,6 @@
 {
     "name": "aromicon/google-universal-analytics-legacy",
-    "version": "1.2.0",
+    "version": "1.2.5",
     "type": "magento-module",
     "description": "Adds new Google Universal Analytics to Magento Store.",
     "homepage": "https://github.com/sreichel/magento-Aromicon-GUA",
